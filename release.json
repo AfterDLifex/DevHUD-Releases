@@ -1,11 +1,11 @@
 {
   "version": "0.1.0",
-  "notes": "v0.1.0 Pre-release (Jan 18, 2026)",
-  "pub_date": "2026-11-19T20:30:00Z",
+  "notes": "Initial DevHUD release",
+  "pub_date": "2026-11-19T16:27:00.019Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/AfterDLifex/DevHUD-Releases/releases/download/v0.1.0/Todo-Tracker_0.16.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV3hucmZhRnBLaWJNNlVGMVhiSkpXVlUzWExUYThVQllLY0RFdzk2UkhaOEsrYjhTcDdKOElqeVFVQ3hicnc0OWphOHJNeDg1VFdXcTBhS21jV2VGbUhnZXdlcGdGRXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NzU2MTIyCWZpbGU6VG9kby1UcmFja2VyXzAuMTYuMF94NjQtc2V0dXAuZXhlCm5ZZXFVcHlTeXFTSjY1NVc5QjVLQ3dzUGlVNmZHclk4VGQ5WFJwbVprQTJwajdsWG8zNjRaK3ZEZjRCMFZFenpwQnRZZG1lYU82Q1FsTEtkdm5TRURnPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUzJyVUNyRktneXUraVRRMU9DS2xxY1NQcTNaWktVRDdtWmlHK0dPem5SYVk4K0VEM0RkSFJCVm1CZ0szRWQ2eVFNMzVLNlkvNUhIL2pTU01mQWdJL2ovV21yQWt6S2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTA1NjE5CWZpbGU6RGV2SFVEXzAuMS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMAp6dUpPNTFFRW4wQXp2MUNRb1k2UW9kdkIveGVJbjk5QlRGVno3ZEtHa28zN1hFWkxWTG9jNldkT0RyVEhCTzkwTXRRU0JscmhNRkJ6bzVMR1U5K3VDQT09Cg==",
+      "url": "https://github.com/AfterDLifex/DevHUD-Releases/releases/download/v0.1.0/DevHUD_0.1.0_x64-setup.exe"
     }
   }
 }
