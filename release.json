@@ -1,10 +1,10 @@
 {
   "version": "0.1.0",
   "notes": "Initial DevHUD release",
-  "pub_date": "2026-11-19T16:40:34.236Z",
+  "pub_date": "2026-11-19T17:04:54.941Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUzJyVUNyRktneXB2cEJEZGFHR0ozVnVGM3p6emZJMHVzeDlvUGpSbUQ4UjRzV1YxY0sxUVA0cncvUGxndDJ1ZUx4U0FtMm8wTDJIazZSREd1MFI4ZDNvdXplZWlBblE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTA2NDM0CWZpbGU6RGV2SFVEXzAuMS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMAovTDBWVE9pdUNOSG5QdXhYN2Y2MUxWNGIwekN1cytvVjNnRURMMUx4c1d0MDFNdUJqdGtFZXpsT0ZCVzE3SkhFK0t2VmExcnBEb2xBdEVoYlBwRm5CQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUzJyVUNyRktneWhKdUdZNUhSb011bDRzTUpOem9YV0xLSG9vVTF1dmM5TG5OVDIzZXNBdUgrOGM1bzRQbFpvUUpUTS9PeWJJMVZpZmVQbkp3Nnh0NkFpZUhkcU5sRmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTA3ODk0CWZpbGU6RGV2SFVEXzAuMS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMAptOGlkcVpKbXFEbjQ4MktZOGVYaXdtREZGcHdMM2JUUUtZZnpGeklNNHJmcXUzZ1c4YlF1TUdqamE2Ukg1dmVyeVRsUDV2TkVYbUVvMGh0U0Izb0FEUT09Cg==",
       "url": "https://github.com/AfterDLifex/DevHUD-Releases/releases/download/v0.1.0/DevHUD_0.1.0_x64-setup.exe"
     }
   }
