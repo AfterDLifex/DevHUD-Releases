@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "notes": "Initial DevHUD release",
-  "pub_date": "2026-11-19T17:04:54.941Z",
+  "pub_date": "2026-11-20T07:59:20.613Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUzJyVUNyRktneWhKdUdZNUhSb011bDRzTUpOem9YV0xLSG9vVTF1dmM5TG5OVDIzZXNBdUgrOGM1bzRQbFpvUUpUTS9PeWJJMVZpZmVQbkp3Nnh0NkFpZUhkcU5sRmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTA3ODk0CWZpbGU6RGV2SFVEXzAuMS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMAptOGlkcVpKbXFEbjQ4MktZOGVYaXdtREZGcHdMM2JUUUtZZnpGeklNNHJmcXUzZ1c4YlF1TUdqamE2Ukg1dmVyeVRsUDV2TkVYbUVvMGh0U0Izb0FEUT09Cg==",
-      "url": "https://github.com/AfterDLifex/DevHUD-Releases/releases/download/v0.1.0/DevHUD_0.1.0_x64-setup.exe"
+      "url": "https://github.com/AfterDLifex/DevHUD-Releases/releases/download/v0.2.0/DevHUD_0.1.0_x64-setup.exe"
     }
   }
 }
